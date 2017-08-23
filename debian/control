@@ -1,0 +1,23 @@
+Source: intelhex
+Section: python
+Priority: optional
+Maintainer: Neil Williams <codehelp@debian.org>
+Build-Depends: debhelper (>= 9), dh-python,
+ python3, python3-setuptools
+Standards-Version: 4.2.1
+Homepage: https://github.com/bialix/intelhex
+X-Python3-Version: >= 3.6
+Vcs-Git: https://github.com/Linaro/pkg-intelhex.git
+Vcs-Browser: https://github.com/Linaro/pkg-intelhex
+
+Package: python3-intelhex
+Architecture: all
+Depends: ${python3:Depends}, ${misc:Depends}
+Description: Python support for Intel HEX (Python3)
+ The Intel HEX file format is widely used in the microprocessors
+ and microcontrollers area as the de facto standard for code
+ representation for microelectronic devices programming.
+ .
+ This package implements an intelhex Python library to read, write,
+ create from scratch and manipulate data from HEX (also known as
+ Intel HEX) file format.
