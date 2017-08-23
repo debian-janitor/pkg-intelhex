@@ -1,0 +1,13 @@
+intelhex (2.1-1) jessie-backports; urgency=medium
+
+  * Staging incremental build
+  * Last change 2e0fc7e by Alexander Belchenko, 2 months ago. Update
+    manual on write_hex_file optional arguments.
+
+ -- LAVA build user <buildd@services.lavalab>  Wed, 23 Aug 2017 09:51:57 +0100
+
+intelhex (2.1-1) unstable; urgency=medium
+
+  * Initial Linaro packaging.
+
+ -- Neil Williams <codehelp@debian.org>  Fri, 28 Jul 2017 11:45:27 +0100

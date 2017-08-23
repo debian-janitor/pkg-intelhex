@@ -1,0 +1,3 @@
+python-intelhex: new-package-should-close-itp-bug
+python-intelhex: new-package-should-not-package-python2-module python-intelhex
+
