@@ -1,5 +1,6 @@
 intelhex (2.1-1) unstable; urgency=medium
 
-  * Initial packaging.
+  * Initial release. (Closes: #910565: ITP: intelhex -- Intel HEX
+    microcontroller format support for Python)
 
  -- Neil Williams <codehelp@debian.org>  Fri, 05 Oct 2018 14:33:09 +0100

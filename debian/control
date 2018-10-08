@@ -7,8 +7,8 @@ Build-Depends: debhelper (>= 9), dh-python,
 Standards-Version: 4.2.1
 Homepage: https://github.com/bialix/intelhex
 X-Python3-Version: >= 3.6
-Vcs-Git: https://github.com/Linaro/pkg-intelhex.git
-Vcs-Browser: https://github.com/Linaro/pkg-intelhex
+Vcs-Git: https://github.com/codehelp/pkg-intelhex.git
+Vcs-Browser: https://github.com/codehelp/pkg-intelhex
 
 Package: python3-intelhex
 Architecture: all
