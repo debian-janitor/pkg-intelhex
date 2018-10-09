@@ -1,6 +1,6 @@
 intelhex (2.1-2) UNRELEASED; urgency=medium
 
-  * Update copyright statements
+  * Complete debian/copyright (Closes: #910658)
 
  -- Neil Williams <codehelp@debian.org>  Tue, 09 Oct 2018 13:22:47 +0100
 
