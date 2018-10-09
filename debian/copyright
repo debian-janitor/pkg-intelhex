@@ -6,6 +6,15 @@ Files: *
 Copyright: 2005-2016 Alexander Belchenko
 License: BSD-3-Clause
 
+Files: intelhex/compat.py
+Copyright: 2005-2016 Alexander Belchenko
+		   2011 Bernhard Leiner
+License: BSD-3-Clause
+
+Files: scripts/hexinfo.py
+Copyright: 2015 Andrew Fernandes <andrew@fernandes.org>
+License: BSD-3-Clause
+
 Files: debian/*
 Copyright: 2017 Neil Williams <codehelp@debian.org>
 License: BSD-3-Clause
