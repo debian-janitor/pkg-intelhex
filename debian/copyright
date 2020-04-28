@@ -8,7 +8,7 @@ License: BSD-3-Clause
 
 Files: intelhex/compat.py
 Copyright: 2005-2016 Alexander Belchenko
-		   2011 Bernhard Leiner
+ 		   2011 Bernhard Leiner
 License: BSD-3-Clause
 
 Files: scripts/hexinfo.py
